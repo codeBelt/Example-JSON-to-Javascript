@@ -1,0 +1,11 @@
+{
+    "name": "JSON-JavaScript-with-GruntJS",
+    "version": "0.1.0",
+    "description": "A example how to compile JSON files into JavaScript with Grunt.js",
+    "url": "http://www.codebelt.com/",
+
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-json": "~0.1.3"
+    }
+}
